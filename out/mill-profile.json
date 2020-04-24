@@ -1,0 +1,12 @@
+[
+    {
+        "label": "myModule.first",
+        "millis": 95,
+        "cached": false
+    },
+    {
+        "label": "myModule.second",
+        "millis": 6,
+        "cached": false
+    }
+]
